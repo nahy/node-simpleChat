@@ -1,0 +1,28 @@
+{
+  "name": "simpleChat",
+  "description": "example chat application with socket.io",
+  "main": "app.js",
+  "authors": [
+    "V Shakhunov <v.shakhunov@ya.ru>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chat",
+    "socket.io"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
